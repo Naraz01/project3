@@ -1,0 +1,137 @@
+{
+  "groupes": [
+    {
+      "id": 1,
+      "name": "Книги"
+    },
+    {
+      "name": "Кино",
+      "id": 2
+    },
+    {
+      "name": "Женская одежда",
+      "id": 3
+    },
+    {
+      "name": "мужская одежда",
+      "id": 4
+    },
+    {
+      "name": "test1",
+      "goods": [],
+      "id": 5
+    }
+  ],
+  "goods": [
+    {
+      "name": "Энканто. Край чудес",
+      "vendorCode": "1252596",
+      "eanCode": "1252596",
+      "pricePurchases": "2 790",
+      "salePrice": "2 460",
+      "goodsType": 1,
+      "groupeId": 1,
+      "id": 2
+    },
+    {
+      "name": "Ходячий замок",
+      "vendorCode": "1233559",
+      "eanCode": "1233559",
+      "pricePurchases": "3 040",
+      "salePrice": "2 040",
+      "goodsType": 1,
+      "groupeId": 1,
+      "id": 7
+    },
+    {
+      "name": "hhhhh",
+      "vendorCode": "fghj",
+      "eanCode": "jkl",
+      "pricePurchases": "ghjkgg",
+      "salePrice": "yyyyyii",
+      "goodsType": 6,
+      "groupeId": 6,
+      "id": 8
+    },
+    {
+      "name": "test",
+      "vendorCode": "9866",
+      "eanCode": "kass",
+      "pricePurchases": "987784",
+      "salePrice": "88444445",
+      "goodsType": 2,
+      "groupeId": 2,
+      "id": 9
+    },
+    {
+      "name": "fghj",
+      "vendorCode": "ertyu",
+      "eanCode": "dfghj",
+      "pricePurchases": "dfgh",
+      "salePrice": "tyuik",
+      "goodsType": 2,
+      "groupeId": 2,
+      "id": 10
+    },
+    {
+      "name": "rtyuij",
+      "vendorCode": "rtyu",
+      "eanCode": "tyuhji",
+      "pricePurchases": "ertfyu",
+      "salePrice": "fghj",
+      "goodsType": 4,
+      "groupeId": 4,
+      "id": 11
+    },
+    {
+      "name": "Седьмая функция языка",
+      "vendorCode": "1131503",
+      "eanCode": "1131503",
+      "pricePurchases": "2 640",
+      "salePrice": "4 400",
+      "goodsType": 1,
+      "groupeId": 1,
+      "id": 12
+    },
+    {
+      "name": "Мальчик по имени Рождество",
+      "vendorCode": "1270084",
+      "eanCode": "1270084",
+      "pricePurchases": "2 900",
+      "salePrice": "3 300",
+      "goodsType": 2,
+      "groupeId": 2,
+      "id": 13
+    },
+    {
+      "name": "test1",
+      "vendorCode": "123123",
+      "eanCode": "123456",
+      "pricePurchases": "5 633",
+      "salePrice": "8 8888",
+      "goodsType": 5,
+      "groupeId": 5,
+      "id": 14
+    },
+    {
+      "name": "dfghj",
+      "vendorCode": "dfg",
+      "eanCode": "dfgh",
+      "pricePurchases": "fghj",
+      "salePrice": "fghj",
+      "goodsType": 3,
+      "groupeId": 3,
+      "id": 15
+    },
+    {
+      "name": "test",
+      "vendorCode": "8988",
+      "eanCode": "455454",
+      "pricePurchases": "4 444",
+      "salePrice": "8 988",
+      "goodsType": 3,
+      "groupeId": 3,
+      "id": 16
+    }
+  ]
+}
