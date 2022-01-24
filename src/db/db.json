@@ -132,6 +132,66 @@
       "goodsType": 3,
       "groupeId": 3,
       "id": 16
+    },
+    {
+      "name": "лллл",
+      "vendorCode": "лллллл",
+      "eanCode": "роооо",
+      "pricePurchases": "ооооо",
+      "salePrice": "ооооо",
+      "goodsType": 3,
+      "groupeId": 3,
+      "id": 17
+    },
+    {
+      "name": "test",
+      "vendorCode": "456789",
+      "eanCode": "7878878",
+      "pricePurchases": "89898",
+      "salePrice": "444",
+      "goodsType": 3,
+      "groupeId": 3,
+      "id": 18
+    },
+    {
+      "name": "nnnnn",
+      "vendorCode": "ghj",
+      "eanCode": "ghj",
+      "pricePurchases": "jjjj",
+      "salePrice": "uhhhjh",
+      "goodsType": null,
+      "groupeId": null,
+      "id": 19
+    },
+    {
+      "name": "jjjjjj",
+      "vendorCode": "hhhhhhh",
+      "eanCode": "ghj",
+      "pricePurchases": "hjk",
+      "salePrice": "444",
+      "goodsType": null,
+      "groupeId": null,
+      "id": 20
+    },
+    {
+      "name": "hhhhh",
+      "vendorCode": "454545",
+      "eanCode": "4444",
+      "pricePurchases": "45455",
+      "salePrice": "7887",
+      "goodsType": null,
+      "groupeId": null,
+      "id": 21
+    },
+    {
+      "name": "ffggyy",
+      "vendorCode": "guuu",
+      "eanCode": "yyyuuu",
+      "pricePurchases": "45445",
+      "salePrice": "444",
+      "goodsType": 2,
+      "groupeId": 2,
+      "id": 22
     }
   ]
 }

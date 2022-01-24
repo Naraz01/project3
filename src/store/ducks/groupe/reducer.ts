@@ -47,7 +47,7 @@ export const groupeReducer = (state = initialGroupeState, action: GroupesActions
             });
 
             
-            console.log(goods)
+            console.log('goods', goods)
             return state;
 /*
             return {

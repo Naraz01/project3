@@ -5,7 +5,7 @@ import Typography from '@mui/material/Typography';
 import { useDispatch, useSelector } from 'react-redux';
 import { RootState } from '../../../store/store';
 import { GoodsApi } from '../../../services/api/goodsApi';
-import { setAddGoods } from '../../../store/ducks/groupe/actionCreators';
+import { fetchGroupe, setAddGoods } from '../../../store/ducks/groupe/actionCreators';
 
 interface GroupeModalProps {
     open: boolean;
@@ -46,7 +46,7 @@ export const GoodsModal: React.FC<GroupeModalProps> = ({open, onClose}): React.R
             groupeId: parseInt(groupeId)
           };
           const data = await GoodsApi.setGoods(goods)
-          dispatch(setAddGoods(data))          
+          dispatch(fetchGroupe())
           setName('');
           setVendorCode('');
           setEanCode('');
